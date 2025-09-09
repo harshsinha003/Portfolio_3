@@ -21,3 +21,16 @@ It showcases my projects, skills, resume, and contact details.
 - HTML5
 - CSS3
 - JavaScript (vanilla)
+
+## 📂 Project Files
+
+Portfolio_3/
+│── index.html      # Main webpage
+│── style.css       # Stylesheet
+│── script.js       # JavaScript interactions
+│── README.md       # Documentation
+
+## 📧 Contact
+
+Feel free to reach out for collaboration or suggestions:
+GitHub: @harshsinha003
